@@ -1,6 +1,6 @@
 # <img align="left" alt="YourPod" width="100px" src="https://yourpod.cf/themes/volcano/img/icon.png" draggable="false" /> YourPod 🎵 ([Click to try 🚀](https://yourpod.cf/))
 
-Firelaps 🔥 is a fiery network where anyone📱 can become a news reporter.✨ It's a whole new kind of social network.🚀
+Yourpod 🎙️is an easy way to create and publish podcasts yourself 🎵or to record your voice and share voice messages with friends.🔊
 
 
 ## **[Changelog 🎵](https://github.com/linkspreed/YourPod/blob/main/changelog.md)** **Check out the full YourPod changelog**

@@ -48,9 +48,10 @@ Yourpod 🎙️is an easy way to create and publish podcasts yourself 🎵or to 
 ## More
 
 **YourPod** was created by **Linkspreed**.
-Become a news reporter quickly and easily
-and experience a whole new kind of
-social media.
+Your voice and words express more
+than you think. 
+Share your own podcasts and voice
+recordings on YourPod.
 
 YourPod is developed and provided by [Linkspreed 🚀](https://www.linkspreed.com/).
 

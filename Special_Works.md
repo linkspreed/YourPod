@@ -1,4 +1,7 @@
 # 06.08.2022
+ - We have successfully updated Yourpod to the new version (1.4.7).
+
+# 06.08.2022
  - Yourpod's servers are ready.... the code is in the starting blocks and the update is starting now.☁️🚀
 
 # 06.08.2022

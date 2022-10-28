@@ -1,5 +1,5 @@
 ### 28.10.2022 (announcement YourPod)
-- You can now also register/login to YourPod with your own Linkspreed account.
+- You can now also register/login to **YourPod** with your own Linkspreed account.
 
 ### 28.10.2022 (announcement YourPod)
 - We're still working on **YourPod**.

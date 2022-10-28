@@ -1,3 +1,6 @@
+### 28.10.2022 (announcement YourPod)
+- We're still working on **YourPod**.
+
 ### 20.10.2022 (announcement YourPod)
 - We continue to work on **YourPod**.
 

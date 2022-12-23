@@ -1,4 +1,7 @@
 ### 23.12.2022 (announcement YourPod)
+- The servers are now ready for the launch of version 1.5 for **YourPod**.
+
+### 23.12.2022 (announcement YourPod)
 - The code is now ready for the launch of version 1.5 for **YourPod**.
 
 ### 23.12.2022 (announcement YourPod)

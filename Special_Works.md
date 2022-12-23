@@ -1,5 +1,5 @@
-### 23.12.2022 (announcement Soundchest)
-- We're currently working on a new update for **Soundchest**!
+### 23.12.2022 (announcement YourPod)
+- We're currently working on a new update for **YourPod**!
 
 ### 28.10.2022 (announcement YourPod)
 - We're going to do a check now.

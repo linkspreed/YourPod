@@ -1,4 +1,8 @@
 ### 23.12.2022 (announcement YourPod)
+- https://github.com/linkspreed/YourPod/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 23.12.2022 (announcement YourPod)
 - The launch of version 1.5 of **YourPod** was successful! 🥳
 - The new update is live now :)
 - https://yourpod.tk 🔗

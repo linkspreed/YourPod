@@ -1,4 +1,4 @@
-# <img align="left" alt="YourPod" width="100px" src="https://yourpod.cf/themes/volcano/img/icon.png" draggable="false" /> YourPod 🎵 ([Click to try 🚀](https://yourpod.cf/))
+# <img align="left" alt="YourPod" width="100px" src="https://yourpod.cf/themes/volcano/img/icon.png" draggable="false" /> YourPod 🎵 ([Click to try 🚀](https://yourpod.cf/)) (v1.5.1)
 
 Yourpod 🎙️is an easy way to create and publish podcasts yourself 🎵or to record your voice and share voice messages with friends.🔊
 

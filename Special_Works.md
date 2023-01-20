@@ -1,4 +1,7 @@
 ### 20.01.2023 (announcement YourPod)
+- The code is now ready for the launch of version 1.5.2 for **YourPod**.
+
+### 20.01.2023 (announcement YourPod)
 -  **YourPod** gets a big update today - we are going to launch v1.5.2. 😍
 
 ### 13.01.2023 (announcement YourPod)

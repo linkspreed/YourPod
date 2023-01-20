@@ -1,3 +1,6 @@
+### 20.01.2023 (announcement YourPod)
+-  **YourPod** gets a big update today - we are going to launch v1.5.2. 😍
+
 ### 13.01.2023 (announcement YourPod)
 - https://github.com/linkspreed/YourPod/blob/main/changelog.md
 - The entire changelog is now available on Github.

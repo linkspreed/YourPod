@@ -1,4 +1,7 @@
 ### 20.01.2023 (announcement YourPod)
+- We are now starting the launch of v1.5.2.
+
+### 20.01.2023 (announcement YourPod)
 - The servers are now ready for the launch of version 1.5.2 for **YourPod**.
 
 ### 20.01.2023 (announcement YourPod)

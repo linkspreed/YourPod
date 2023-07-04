@@ -1,3 +1,6 @@
+### 04.07.2023 (announcement Yourpod)
+- 📢 Exciting news! 🎉 YourPod just got added to our Subdomain system! 🚀 Check out our new link: https://yourpod.cf, which will now redirect you to https://yourpod.linkspreed.com. Don't worry, nothing changes in terms of functionality! 🙌🏼 Have you already explored the platform with all your existing data? Let us know! 😊 #YourPod #SubdomainUpdate
+
 ### 20.01.2023 (announcement YourPod)
 - https://github.com/linkspreed/YourPod/blob/main/changelog.md
 - The entire changelog is now available on Github.
